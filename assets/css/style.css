@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+    padding: 30px;
+    text-align: center;
+    color: white;
+
+}
+
+p {
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    line-height: 40px;
+    text-align: center;
+    color: white;
+
+}
+
+body {
+    background-image: url("../images/background.jpg");
+    background-size: 1400px, 1000px;
+    background-repeat: no-repeat;
+}
